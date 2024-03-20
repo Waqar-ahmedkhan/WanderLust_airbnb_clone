@@ -3,11 +3,8 @@
   "builds": [
     {
       "src": "build/*",
-      "use": "@vercel/static-build"
+      "use": "@vercel/node"
     }
   ],
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
+  "routes": [{ "handle": "filesystem" }, { "src": "/(.*)", "dest": "/" }]
 }
