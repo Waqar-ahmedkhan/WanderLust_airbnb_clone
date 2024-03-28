@@ -61,7 +61,7 @@ Users can create, view, edit, and delete their listings. Admin users have additi
 <img width="900" alt="listingpart2" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/fd9b5257-b5ea-40dd-9839-705271d9483b">
 <img width="900" alt="listingpart3" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/b255c719-afaa-4349-873a-4829dd2a3294">
 <img width="900" alt="newlistingcreate" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/e1e0edb8-7d8f-4b28-8e6b-1b27d9a006a6">
-<img width="960" alt="Edit section" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/cfdb02c0-179d-496d-bbe0-92f6368a1968">
+<img width="900" alt="Edit section" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/cfdb02c0-179d-496d-bbe0-92f6368a1968">
 
 
 
