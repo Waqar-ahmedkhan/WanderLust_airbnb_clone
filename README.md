@@ -49,27 +49,38 @@ To run this project locally, follow these steps:
 ## User Authentication
 
 The application provides user authentication functionalities, including login and signup. Below is a screenshot of the authentication page:
-
-![Authentication](authentication.png)
+<img width="900" alt="signin page1" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/36efa18b-549a-43b0-8946-19040a89c998">
 *Caption: Authentication page for login and signup.*
 
 ## Listing Management
 
 Users can create, view, edit, and delete their listings. Admin users have additional privileges, such as editing and deleting any listing. Below is an image of the listing management interface:
 
-![Listing Management](listing_management.png)
+<img width="900" alt="listing frontend" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/3f43426a-066a-46c0-b40f-bcfa997f2c85">
+
+<img width="900" alt="listingpart2" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/fd9b5257-b5ea-40dd-9839-705271d9483b">
+<img width="900" alt="listingpart3" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/b255c719-afaa-4349-873a-4829dd2a3294">
+<img width="900" alt="newlistingcreate" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/e1e0edb8-7d8f-4b28-8e6b-1b27d9a006a6">
+<img width="960" alt="Edit section" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/cfdb02c0-179d-496d-bbe0-92f6368a1968">
+
+
+
+
 *Caption: Listing management interface for creating and editing listings.*
 
 ## Reviews
 
 Users can leave reviews for accommodations they have stayed at. Below is a screenshot of the reviews page:
 
-![Reviews](reviews.png)
+<img width="900" alt="Reviewsection" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/80cf4aeb-6592-42f8-b068-7e1731b46608">
+
 *Caption: Reviews page displaying user reviews.*
 
 ## Map Integration
 
 Listings are displayed on a map for easy visualization of their locations. Unfortunately, the image for map integration is not available at the moment.
+<img width="900" alt="mapsection" src="https://github.com/Waqar-ahmedkhan/WanderLust_airbnb_clone/assets/150153359/c04c1764-6eb4-4e34-91ea-e9f596c55c41">
+
 
 ## Contributing
 
