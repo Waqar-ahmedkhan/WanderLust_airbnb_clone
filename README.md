@@ -1,4 +1,4 @@
-# Airbnb Clone Project
+# 🏠 Airbnb Clone Project
 
 Welcome to my Airbnb clone project! This project is a recreation of the popular accommodation booking platform, Airbnb, focusing on essential features such as listing management, user reviews, and location-based search. Below, you'll find information on how to set up and run the project, along with some screenshots to give you an overview of its functionality.
 
@@ -35,6 +35,16 @@ To run this project locally, follow these steps:
     ```bash
     yarn start
     ```
+
+## Technologies Used
+
+- **JavaScript**: The primary programming language used for both front-end and back-end development.
+- **Node.js**: A JavaScript runtime used for server-side development.
+- **Express.js**: A web application framework for Node.js used for building the server-side of the application.
+- **MongoDB**: A NoSQL database used for storing application data.
+- **Bootstrap**: A front-end framework used for styling and layout.
+- **EJS**: Embedded JavaScript templates used for generating HTML markup.
+- **CSS**: Cascading Style Sheets used for styling the application.
 
 ## User Authentication
 
